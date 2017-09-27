@@ -1,7 +1,7 @@
 # AJAX EXAMPLE 
 A simple ajax call from an html file(index.html) to fetch the message "Hello World" printed in text file(server.txt)
 
-##Me
+# Me
 Want to say hi? Will be happy to hear from you
 * [Twitter](http:///www.twitter.com/asadadams)
 * [Facebbok](http://www.facebook.com/asad.adams)
